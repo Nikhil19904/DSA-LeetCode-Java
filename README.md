@@ -40,4 +40,8 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
 <!---LeetCode Topics End-->
