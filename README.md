@@ -37,6 +37,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,8 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
