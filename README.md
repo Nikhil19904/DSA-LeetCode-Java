@@ -45,6 +45,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
@@ -77,4 +78,8 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
