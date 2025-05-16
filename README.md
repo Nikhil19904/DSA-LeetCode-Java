@@ -54,6 +54,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
+| [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,4 +83,12 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
