@@ -32,6 +32,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
+| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
+| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
 ## Dynamic Programming
 |  |
@@ -61,4 +63,12 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
