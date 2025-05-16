@@ -49,4 +49,16 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
