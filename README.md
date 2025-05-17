@@ -50,6 +50,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
+| [0878-shifting-letters](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0878-shifting-letters) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
@@ -83,6 +84,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0878-shifting-letters](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0878-shifting-letters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
+| [0878-shifting-letters](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0878-shifting-letters) |
 | [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
