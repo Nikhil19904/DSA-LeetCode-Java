@@ -46,6 +46,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
@@ -74,6 +75,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -87,6 +89,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
 ## String
 |  |
@@ -100,4 +103,24 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
