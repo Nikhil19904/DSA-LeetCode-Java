@@ -49,6 +49,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
@@ -77,6 +78,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,10 +92,12 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 | [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 | [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -111,16 +115,23 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
