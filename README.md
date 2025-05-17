@@ -50,12 +50,14 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
 | [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
 ## Depth-First Search
 |  |
@@ -85,6 +87,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
+| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
 ## String
 |  |
 | ------- |
@@ -93,4 +96,8 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
+## Greedy
+|  |
+| ------- |
+| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
 <!---LeetCode Topics End-->
