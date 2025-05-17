@@ -137,4 +137,8 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
