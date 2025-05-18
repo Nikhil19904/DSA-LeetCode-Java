@@ -31,6 +31,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
@@ -58,6 +59,7 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
@@ -142,4 +144,8 @@ Each topic contains problem-wise `.java` files with clean code and comments.
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0176-second-highest-salary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
