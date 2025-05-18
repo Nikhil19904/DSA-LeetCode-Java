@@ -1,151 +1,162 @@
-# LeetCode + DSA Practice in Java ☕️
+# ☕️ LeetCode + DSA Practice in Java
 
-This repository contains my solutions to 300+ LeetCode problems categorized by topic.  
-Languages used: **Java** (Primary), some Python & JS.
+This repository contains my solutions to **300+ LeetCode problems** categorized by topic.  
+Primary language: **Java** (with some Python & JavaScript).
 
-## Topics Covered
-- Arrays
-- Strings
-- Dynamic Programming
-- Trees & Graphs (BFS/DFS)
-- Greedy
-- Recursion & Backtracking
-- Binary Search
-- Bit Manipulation
-- Contest Problems
+---
 
-## Progress
-✅ 300+ Problems Solved  
-🔥 Active Contestant (Rating: 1428+)  
-📅 50+ Day Streak on LeetCode
+## 🚀 Topics Covered
 
-## Folder Structure
-Each topic contains problem-wise `.java` files with clean code and comments.
+- Arrays  
+- Strings  
+- Dynamic Programming  
+- Trees & Graphs (BFS/DFS)  
+- Greedy  
+- Recursion & Backtracking  
+- Binary Search  
+- Bit Manipulation  
+- Contest Problems  
 
-## Author
+---
+
+## 📈 Progress
+
+- ✅ 300+ Problems Solved  
+- 🔥 Active Contestant (Rating: 1428+)  
+- 📅 50+ Day Streak on LeetCode  
+
+---
+
+## 📂 Folder Structure
+
+Each topic folder contains problem-wise `.java` files with clean, modular code and comments for easy understanding and review.
+
+---
+
+## 👨‍💻 Author
+
 **Nikhil**  
-[LeetCode Profile](https://leetcode.com/u/Nikhil_72/) | [LinkedIn](https://linkedin.com/in/nikhil-3652872a2) | [GitHub](https://github.com/Nikhil19904)
+- [LeetCode Profile](https://leetcode.com/your-username)  
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/your-username)  
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0070-climbing-stairs) |
-| [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
-| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0258-add-digits) |
-## Array
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-| [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
-| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-| [0878-shifting-letters](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0878-shifting-letters) |
-| [0932-monotonic-array](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0932-monotonic-array) |
-| [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
-| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0070-climbing-stairs) |
-| [0377-combination-sum-iv](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0377-combination-sum-iv) |
-| [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
-| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
-| [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
-## Depth-First Search
-|  |
-| ------- |
-| [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
-## Graph
-|  |
-| ------- |
-| [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
-## Biconnected Component
-|  |
-| ------- |
-| [1300-critical-connections-in-a-network](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1300-critical-connections-in-a-network) |
-## Hash Table
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-## Prefix Sum
-|  |
-| ------- |
-| [0523-continuous-subarray-sum](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
-| [0878-shifting-letters](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0878-shifting-letters) |
-## Two Pointers
-|  |
-| ------- |
-| [2271-rearrange-array-elements-by-sign](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/2271-rearrange-array-elements-by-sign) |
-## Sorting
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
-## String
-|  |
-| ------- |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-| [0878-shifting-letters](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0878-shifting-letters) |
-| [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
-## String Matching
-|  |
-| ------- |
-| [1764-maximum-repeating-substring](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1764-maximum-repeating-substring) |
-## Greedy
-|  |
-| ------- |
-| [1503-reducing-dishes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/1503-reducing-dishes) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-## Counting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
-## Trie
-|  |
-| ------- |
-| [0692-top-k-frequent-words](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0692-top-k-frequent-words) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0175-combine-two-tables) |
-| [0176-second-highest-salary](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0176-second-highest-salary) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0070-climbing-stairs) |
-<!---LeetCode Topics End-->
+---
+
+## 📚 LeetCode Topics & Sample Problems
+
+### Math  
+- 0070 - Climbing Stairs  
+- 0258 - Add Digits  
+- 0523 - Continuous Subarray Sum  
+
+### Simulation  
+- 0258 - Add Digits  
+- 2271 - Rearrange Array Elements by Sign  
+
+### Number Theory  
+- 0258 - Add Digits  
+
+### Array  
+- 0056 - Merge Intervals  
+- 0347 - Top K Frequent Elements  
+- 0377 - Combination Sum IV  
+- 0523 - Continuous Subarray Sum  
+- 0692 - Top K Frequent Words  
+- 0878 - Shifting Letters  
+- 0932 - Monotonic Array  
+- 1111 - Minimum Score Triangulation of Polygon  
+- 1503 - Reducing Dishes  
+- 2271 - Rearrange Array Elements by Sign  
+
+### Dynamic Programming  
+- 0070 - Climbing Stairs  
+- 0377 - Combination Sum IV  
+- 1111 - Minimum Score Triangulation of Polygon  
+- 1503 - Reducing Dishes  
+- 1764 - Maximum Repeating Substring  
+
+### Depth-First Search  
+- 1300 - Critical Connections in a Network  
+
+### Graph  
+- 1300 - Critical Connections in a Network  
+
+### Biconnected Component  
+- 1300 - Critical Connections in a Network  
+
+### Hash Table  
+- 0347 - Top K Frequent Elements  
+- 0523 - Continuous Subarray Sum  
+- 0692 - Top K Frequent Words  
+
+### Prefix Sum  
+- 0523 - Continuous Subarray Sum  
+- 0878 - Shifting Letters  
+
+### Two Pointers  
+- 2271 - Rearrange Array Elements by Sign  
+
+### Sorting  
+- 0056 - Merge Intervals  
+- 0347 - Top K Frequent Elements  
+- 0692 - Top K Frequent Words  
+- 1503 - Reducing Dishes  
+
+### String  
+- 0692 - Top K Frequent Words  
+- 0878 - Shifting Letters  
+- 1764 - Maximum Repeating Substring  
+
+### String Matching  
+- 1764 - Maximum Repeating Substring  
+
+### Greedy  
+- 1503 - Reducing Dishes  
+
+### Divide and Conquer  
+- 0347 - Top K Frequent Elements  
+
+### Heap (Priority Queue)  
+- 0347 - Top K Frequent Elements  
+- 0692 - Top K Frequent Words  
+
+### Bucket Sort  
+- 0347 - Top K Frequent Elements  
+- 0692 - Top K Frequent Words  
+
+### Counting  
+- 0347 - Top K Frequent Elements  
+- 0692 - Top K Frequent Words  
+
+### Quickselect  
+- 0347 - Top K Frequent Elements  
+
+### Trie  
+- 0692 - Top K Frequent Words  
+
+### Database  
+- 0175 - Combine Two Tables  
+- 0176 - Second Highest Salary  
+
+### Memoization  
+- 0070 - Climbing Stairs  
+
+---
+
+## 📝 Notes
+
+- Each problem solution is implemented in clean, well-commented Java code for clarity and learning.  
+- Solutions cover multiple approaches where applicable (e.g., recursion, memoization, tabulation in DP).  
+- Folder-wise organization makes navigation easy and efficient.
+
+---
+
+## 📣 Connect with Me
+
+- GitHub: [github.com/your-username](https://github.com/your-username)  
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- LeetCode: [leetcode.com/your-username](https://leetcode.com/your-username)  
+
+---
+
+> _"Consistent practice leads to mastery — keep solving and keep growing."_ 🚀
