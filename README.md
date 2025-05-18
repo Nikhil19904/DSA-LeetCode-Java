@@ -36,9 +36,9 @@ Each topic folder contains problem-wise `.java` files with clean, modular code a
 ## 👨‍💻 Author
 
 **Nikhil**  
-- [LeetCode Profile](https://leetcode.com/your-username)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)  
+- [LeetCode Profile](https://leetcode.com/Nikhil_72)  
+- [LinkedIn](https://linkedin.com/in/nikhil-3652872a2)  
+- [GitHub](https://github.com/Nikhil19904)  
 
 ---
 
@@ -153,9 +153,9 @@ Each topic folder contains problem-wise `.java` files with clean, modular code a
 
 ## 📣 Connect with Me
 
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- LeetCode: [leetcode.com/your-username](https://leetcode.com/your-username)  
+- GitHub: [github.com/your-username](https://github.com/Nikhil19904)  
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/nikhil-3652872a2)  
+- LeetCode: [leetcode.com/your-username](https://leetcode.com/Nikhl_72)  
 
 ---
 
