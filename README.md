@@ -160,3 +160,11 @@ Each topic folder contains problem-wise `.java` files with clean, modular code a
 ---
 
 > _"Consistent practice leads to mastery — keep solving and keep growing."_ 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0725-split-linked-list-in-parts) |
+<!---LeetCode Topics End-->
