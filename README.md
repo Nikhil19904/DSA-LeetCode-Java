@@ -167,4 +167,20 @@ Each topic folder contains problem-wise `.java` files with clean, modular code a
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0725-split-linked-list-in-parts) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nikhil19904/DSA-LeetCode-Java/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
